@@ -21,7 +21,7 @@ const Home = () => {
     <div className="flex items-center justify-center min-h-screen bg-very-dark-blue">
       <div className="relative w-[700px] h-[600px] bg-dark-blue rounded-xl">
         <img
-          src="../public/images/icon-star.svg"
+          src="/images/icon-star.svg"
           alt="star-image"
           className=" p-16"
         />

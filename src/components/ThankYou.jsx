@@ -7,7 +7,7 @@ const ThankYou = ({rating}) => {
       <div className="p-10 w-[600px] h-[400px] bg-dark-blue rounded-xl">
         <div className='flex flex-col items-center'>
           <img
-            src="../public/images/illustration-thank-you.svg"
+            src="/images/illustration-thank-you.svg"
             alt="star-image"
             className="mb-6"
           />
